@@ -1,6 +1,6 @@
 {
   "name": "nok1",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Parthu K @pkishen",
   "bin": {
     "nok1": "./bin/run"
